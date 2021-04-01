@@ -1,0 +1,10 @@
+.idea
+*.log.**
+*.log
+*.log.*
+*.pyc
+**/.pytest_cache/*
+**/.coverage
+**/media/**
+**/static/**
+*.sqlite3
